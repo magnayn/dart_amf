@@ -1,0 +1,10 @@
+name: amf_dart
+version: 0.0.2
+authors:
+- Nigel Magnay <nigel.magnay@gmail.com>
+description: An AMF3 implementation for dart.
+homepage: https://github.com/magnayn/dart_amf
+dependencies:
+  browser: any
+  unittest: ">=0.11.0+3 <0.12.0"
+  xml: any
